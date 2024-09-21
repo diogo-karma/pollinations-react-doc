@@ -71,7 +71,8 @@ Here’s a refined and organized version of the **Features** and **TODO** sectio
 - [X] Improve markdown rendering for better result visualization.
 - [X] Create comprehensive documentation for hooks.
 - [X] Add preview functionality in the hooks documentation.
-- [ ] Add `onChange` functionality with debounce for better performance.
+- [X] Add `onChange` functionality with debounce for better performance.
+- [X] Enable Enter key to trigger Send button in input hooks
 - [ ] Document all parameters for components and hooks.
 - [ ] Introduce loading indicators for asynchronous actions.
 - [ ] Enhance documentation to cover all possible parameters.
